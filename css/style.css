@@ -1,0 +1,19 @@
+.c-bg{
+	background-color: pink;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+
+
+.bgc{
+	background-color: aqua;
+	min-height: 50px;
+	margin: 10px 0;
+}
+
+
+
+.red{
+	background-color: red;
+}
